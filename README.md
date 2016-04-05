@@ -63,3 +63,12 @@
 * [Zikes](https://news.ycombinator.com/user?id=Zikes)
 * [asah](https://news.ycombinator.com/user?id=asah)
 * [Karunamon](https://news.ycombinator.com/user?id=Karunamon)
+
+### Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b search-string`
+3. Commit your changes: `git commit -am 'Add search-string'`
+4. Push to the branch: `git push origin search-string`
+5. Submit a pull request :D
+
