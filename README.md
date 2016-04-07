@@ -74,4 +74,4 @@
 
 ### License
 
-[MIT](./LICENSE) [MIT TLDR](https://tldrlegal.com/license/mit-license)
+[MIT](./LICENSE) [MIT-TLDR](https://tldrlegal.com/license/mit-license)
