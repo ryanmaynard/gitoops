@@ -1,0 +1,8 @@
+title: Gitoops
+description: A playful list of Github searches
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
